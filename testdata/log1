@@ -1,0 +1,3 @@
+[D]2024-11-03T11:11:06.446Z[hpxy@60446 function=main.(*HProxy).Reload source=trout.software/cyberos/hpxy/main.go:83 process=265] Data plan up and running
+[E]2024-11-03T11:11:08.474Z[hpxy@60446] backend bk_01JBRVGWBM572XC5GKQB3ZNRDG has no server available!
+[I]2024-11-03T20:57:03.707Z[confctl@60446 function='main.RunPlay[...]' source=trout.software/cyberos/confctl/main.go:87 play=initialize-cyberswitch entity="{AdminIface:eth5 srvidx:0}"] Executed direct play
